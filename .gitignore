@@ -8,7 +8,8 @@ project/cs224n-2021-lecture17-analysis.pdf
 Assignment3/cifar-10-batches-py
 Assignment4/MNIST
 Assignment5/MNIST
-Assignment6/tiny-imagenet-200.zip
+Assignment6/tiny-imagenet-200*
 Assignment6/data
 *.pdf
-project/
+project/checkpoint*
+
