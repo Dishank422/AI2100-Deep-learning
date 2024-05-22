@@ -4,5 +4,11 @@ Assignment1/*.png
 Assignment2/*.tiff
 Assignment2/*.png
 cvpr2022-author_kit-v1_1-1
-cs224n-2021-lecture17-analysis.pdf
+project/cs224n-2021-lecture17-analysis.pdf
 Assignment3/cifar-10-batches-py
+Assignment4/MNIST
+Assignment5/MNIST
+Assignment6/tiny-imagenet-200.zip
+Assignment6/data
+*.pdf
+project/
